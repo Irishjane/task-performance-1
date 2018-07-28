@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="text">First Name</string>
+    <string name="text1">Middle name</string>
+    <string name="text2">Last Name</string>
+    <string name="button_post">Post</string>
+</resources>
